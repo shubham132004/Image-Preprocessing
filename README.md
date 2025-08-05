@@ -4,21 +4,21 @@ This repository contains a comprehensive **Jupyter Notebook** that demonstrates 
 
 ---
 
-## 📘 What's Covered in the Notebook
+##  What's Covered in the Notebook
 
 The notebook (`Image_preprocessing-Assignment.ipynb`) walks through the following tasks:
 
-- 🖼️ Opening and inspecting image properties (format, size, mode)
-- 🎨 Converting images to grayscale
-- ✂️ Resizing, cropping, and rotating images
-- 💡 Adjusting image:
+- Opening and inspecting image properties (format, size, mode)
+- Converting images to grayscale
+- Resizing, cropping, and rotating images
+- Adjusting image:
   - Brightness
   - Contrast
   - Sharpness
   - Color saturation
-- 🎯 Drawing on images (rectangles and basic shapes)
-- 🌈 Splitting and analyzing RGB color channels
-- 🧩 Creating a basic 2×2 image collage
+- Drawing on images (rectangles and basic shapes)
+- Splitting and analyzing RGB color channels
+- Creating a basic 2×2 image collage
 
 ---
 <img width="639" height="784" alt="image" src="https://github.com/user-attachments/assets/1e394cf6-2f4e-4b8a-abab-0a04821267f2" />
@@ -32,7 +32,7 @@ This file contains all the code cells, outputs, and explanations for each prepro
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 Make sure the following packages are installed:
 
